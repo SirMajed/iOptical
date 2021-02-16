@@ -16,7 +16,7 @@ Majed Ahmed, Abdulrahman Alahmadi and Ismail Melebari
 | domeCircleSize     | double        | [domeCircleSize] must be less than or equal to (barHeight + domeHeight)  |
 | margin     | EdgeInsets        | Spacing around the bar  |
 | barColor     | Color        | specify a color to be used as a background color  |
-| tabs     | List<MoltenTab>        | List of [MoltenTab], each wil have an icon as the main widget, selcted color and unselected color  |
+| tabs     | List<<MoltenTab>>        | List of [MoltenTab], each wil have an icon as the main widget, selcted color and unselected color  |
 | selectedIndex     | int        | The currently selected tab  |
 | onTabChange     | Function(int index)        | callback function that will be triggered whenever a [MoltenTab] is clicked, and will return it's index.  |
 | curve     | Curve        | Select a [Curve] value for the dome animation. Default is [Curves.linear]  |
