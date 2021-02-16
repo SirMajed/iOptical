@@ -9,5 +9,5 @@ Majed Ahmed, Abdulrahman Alahmadi and Ismail Melebari
 
 | Attribute     | Type          | Description   |
 | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
+| barHeight     | double        | specify a Height for the bar, Default is expanded  |
+
