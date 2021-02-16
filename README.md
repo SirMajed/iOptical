@@ -7,7 +7,7 @@ iOptical is an Shopping Android Mobile Application for Glasses and lenses.
 Majed Ahmed, Abdulrahman Alahmadi and Ismail Melebari
 ```
 
-| Attribute  | Type | Description |
-| ------------- | ------------- |
+| Attribute     | Type          | Description   |
+| ------------- | ------------- | ------------- |
 | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  |
